@@ -14,5 +14,5 @@ Reproducibility
 Data wrangling with pandas and numpy
 Statistical exploration and visualisation with matplotlib and seaborn
 Basic predictive modelig with sckit-learn
-Health data storytelling through cler reporting and visuals
+Health data storytelling through clear reporting and visuals
 
