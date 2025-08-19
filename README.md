@@ -4,7 +4,7 @@ It uses pandas, matplotlib, and seaborn
 
 
 # key features
-Explorartory Data AnAlysis (EDA)
+Explorartory Data Analysis (EDA)
 Clinical Insights
 Predictove Modeling
 Visulaisation
