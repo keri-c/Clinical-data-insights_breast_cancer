@@ -3,7 +3,7 @@ This project demonstrates how python can be used to analyse clinical and operati
 It uses pandas, matplotlib, and seaborn
 
 
-# key features
+# Key features
 Explorartory Data Analysis (EDA)
 Clinical Insights
 Predictove Modeling
